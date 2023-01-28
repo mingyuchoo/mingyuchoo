@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
+
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=FreeBSD&logoColor=white"/>
