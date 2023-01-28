@@ -38,3 +38,9 @@
 
 ### Sometimes I post social media.
 <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white"/> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+
+## My GitHub Stats
+
+[![mingyuchoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuchoo&show_icons=true&theme=radical)](https://github.com/mingyuchoo/github-readme-stats)
+
+[![mingyuchoo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuchoo&langs_count=10&theme=radical)](https://github.com/mingyuchoo/github-readme-stats)
