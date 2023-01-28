@@ -41,6 +41,6 @@
 
 ## My GitHub Stats
 
-[![mingyuchoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuchoo&show_icons=true&theme=radical)](https://github.com/mingyuchoo/github-readme-stats)
+[![mingyuchoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuchoo&show_icons=true&theme=dracula)](https://github.com/mingyuchoo/github-readme-stats)
 
-[![mingyuchoo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuchoo&langs_count=10&theme=radical)](https://github.com/mingyuchoo/github-readme-stats)
+[![mingyuchoo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuchoo&langs_count=10&theme=dracula)](https://github.com/mingyuchoo/github-readme-stats)
