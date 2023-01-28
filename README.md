@@ -42,7 +42,8 @@
 <a href="https://medium.com/@mingyuchoo" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=Medium&logoColor=white"/></a> <a href="https://mingyuchoo.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mingyuchoo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="https://www.facebook.com/mingyu.choo.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## My GitHub Stats
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyuchoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mingyuchoo)
+  
 [![mingyuchoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuchoo&show_icons=true&theme=dracula)](https://github.com/mingyuchoo/github-readme-stats)
 
 [![mingyuchoo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuchoo&langs_count=10&theme=dracula)](https://github.com/mingyuchoo/github-readme-stats)
