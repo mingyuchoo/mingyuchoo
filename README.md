@@ -1,7 +1,7 @@
 # Hi 👋
 
 ## I'm working on
-<img src="https://img.shields.io/badge/LG-A50034?style=flat&logo=LG&logoColor=white"/>
+<img src="https://img.shields.io/badge/LG_CNS-A50034?style=flat&logo=LG&logoColor=white"/>
 
 ## Programming languages
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white"/>
@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 ## Cloud Platforms
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
 
 ## Operating Systems
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
