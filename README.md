@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&desc=Here%20%is%20Mingyu%20Choo's%20GitHub&fontAlign=80&fontAlignY=40&color=gradient)
+
 # Hi, I'm Mingyu Choo. 👋
 
 ## I'm working on
